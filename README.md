@@ -5,7 +5,8 @@ Find out the exhange rate of 1 USD in other major currencies.
 * [Objective](#objective)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
-* [How To Install](#how-to-install)
+* [Installing](#installing)
+* [How To Run](#how-to-run)
 * [Acknowledgements](#acknowledgements)
 * [License](#license)
 
@@ -19,8 +20,14 @@ Get some experience working with flutter and learn advanced state management, ad
 ![Peso Screen](./images/peso.jpg)  
 ![Mexican Peso Screen](./images/mex_peso.jpg)  
 
-## How To Install
+## Installing
 https://flutter.dev/docs/get-started/install
+
+## How To Run
+```bash
+$ cd CurrencyExchangeApp/
+$ flutter run
+```
 
 ## Technologies
 * Flutter version 1.24.0
